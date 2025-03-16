@@ -278,4 +278,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pythonvanilla,macos,windows,visualstudiocode
